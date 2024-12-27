@@ -1,0 +1,22 @@
+.titleheader {
+    border: 2px solid whitesmoke;
+    padding: 30px;
+    flex-wrap: wrap;
+    display: block;
+    font-style: italic;
+    text-align: center;    
+}
+ 
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+
+}
+img {
+    border-radius: 10px;
+    border-color: rgba(0, 0, 0, 0.943);
+    border-style: double;
+    align-items: center;
+    justify-content: space-between;
+    overflow: hidden;
+}
